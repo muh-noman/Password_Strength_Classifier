@@ -8,7 +8,7 @@ import random            # Random Library Password Generate karne ke liye
 import string          # String Library Password Generate karne ke liye
 
 # Title of the Web Application
-st.title("🔐Password Strength Meter")
+st.title("🔐Password Strength Classifier")
 # Title of the Web Application
 st.write("This is a Password Strength Meter Web Application, which helps you to check the strength of your password.")
 
